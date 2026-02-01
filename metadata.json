@@ -1,0 +1,8 @@
+
+{
+  "name": "LegalSync Pro | Guntur & High Courts",
+  "description": "Professional case management for Guntur Trial Courts and High Courts of TS & AP. Tracking e-Courts and High Court Display Boards.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
